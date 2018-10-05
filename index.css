@@ -7,3 +7,9 @@ body {
  width: 100 vw; 
  height: 100vw;
 }
+
+#app {
+ width:50%;
+ height:50%;
+ background-color:#FFF;
+}
